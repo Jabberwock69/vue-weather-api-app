@@ -1,6 +1,6 @@
 # vue-weather-app
-
-## Project setup
+## How to Setup ? 
+## 1. Project setup
 ```
 npm install
 ```
@@ -10,15 +10,4 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Then copy and replace this to project to your new npm vue install project
