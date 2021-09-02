@@ -1,4 +1,5 @@
 # vue-weather-app
+I made simple vue app using api by tutorials on youtube
 ## How to Setup ? 
 ## 1. Project setup
 ```
