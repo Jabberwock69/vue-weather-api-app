@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# vue-weather-app
+I made simple weather app using Vue.js and Api by tutorials on youtube
+## How to Setup ? 
+## 1. Project setup
+```
+npm install
+```
+
+### 2. Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### 3. Then copy and replace this to project to your new npm vue install project
+>>>>>>> b728ff0225f473ec9599a9f3ae8fc634c1eac7b3
